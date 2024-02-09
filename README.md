@@ -1,4 +1,8 @@
+<h2>🏆 Github Profile Trophy</h2>
+
 [![Nicolas' github stats](https://github-readme-stats.vercel.app/api?username=n-elie)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=n-elie&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **n-elie/n-elie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
